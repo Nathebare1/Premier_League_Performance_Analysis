@@ -183,3 +183,10 @@ premier-league-performance-analysis/
 ├── premier_league_analysis.ipynb
 └── data/
     └── matches.csv
+
+## Author
+
+**Nathaniel Ebare**
+
+Computer Science student interested in Data Science, Machine Learning,
+and Software Engineering.
